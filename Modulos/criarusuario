@@ -346,7 +346,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 		}
 		clear
 echo -e "\033[1;35m╔════════════════════════════════════════════════╗"
-echo -e "║            🌐✨ MAPTECH VPS MANAGER ✨🌐            ║"
+echo -e "║            🌐✨ MATRIX SSH MANAGER ✨🌐            ║"
 echo -e "╚════════════════════════════════════════════════╝\033[0m"
 echo ""
 echo -e "\033[1;37m💠── SSH ACCOUNT INFORMATION ──💠\033[0m"
@@ -372,7 +372,7 @@ echo ""
 echo -e "\033[1;36m📝 GET http://91.241.94.160/ HTTP/1.1[crlf]Host: zerod.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]\033[0m"
 echo ""
 echo -e "\033[1;37m══════════════════════════════════════════════════"
-echo -e "      🌐✨ MAPTECH VPS MANAGER SCRIPT ©️ 2024 ✨🌐"
+echo -e "      🌐✨ MATRIX SSH MANAGER SCRIPT ©️ 2024 ✨🌐"
 echo -e "══════════════════════════════════════════════════\033[0m"
 		sleep 1
 		function aguarde() {
@@ -409,7 +409,7 @@ echo -e "═══════════════════════�
 	} || {
 		clear
     echo -e "\033[1;35m╔════════════════════════════════════════════════╗"
-echo -e "║            🌐✨ MAPTECH VPS MANAGER ✨🌐            ║"
+echo -e "║            🌐✨ MATRIX SSH MANAGER ✨🌐            ║"
 echo -e "╚════════════════════════════════════════════════╝\033[0m"
 echo ""
 echo -e "\033[1;37m💠── SSH ACCOUNT INFORMATION ──💠\033[0m"
@@ -435,13 +435,13 @@ echo ""
 echo -e "\033[1;36m📝 GET http://91.241.94.160/ HTTP/1.1[crlf]Host: zerod.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]\033[0m"
 echo ""
 echo -e "\033[1;37m══════════════════════════════════════════════════"
-echo -e "      🌐✨ MAPTECH VPS MANAGER SCRIPT ©️ 2024 ✨🌐"
+echo -e "      🌐✨ MATRIX SSH MANAGER SCRIPT ©️ 2024 ✨🌐"
 echo -e "══════════════════════════════════════════════════\033[0m"
 	}
 } || {
 	clear
     echo -e "\033[1;35m╔════════════════════════════════════════════════╗"
-echo -e "║            🌐✨ MAPTECH VPS MANAGER ✨🌐            ║"
+echo -e "║            🌐✨ MATRIX SSH MANAGER ✨🌐            ║"
 echo -e "╚════════════════════════════════════════════════╝\033[0m"
 echo ""
 echo -e "\033[1;37m💠── SSH ACCOUNT INFORMATION ──💠\033[0m"
@@ -467,6 +467,6 @@ echo ""
 echo -e "\033[1;36m📝 GET http://91.241.94.160/ HTTP/1.1[crlf]Host: zerod.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]\033[0m"
 echo ""
 echo -e "\033[1;37m══════════════════════════════════════════════════"
-echo -e "      🌐✨ MAPTECH VPS MANAGER SCRIPT ©️ 2024 ✨🌐"
+echo -e "      🌐✨ MATRIX SSH MANAGER SCRIPT ©️ 2024 ✨🌐"
 echo -e "══════════════════════════════════════════════════\033[0m"
 }
