@@ -194,8 +194,8 @@ send_code_telegram() {
     return
 }
 
-bot_tokens=("8045689937:AAEz4EkHP-VTM3CknZGGhbBz_6nwKV4PKqQ" "8045689937:AAEz4EkHP-VTM3CknZGGhbBz_6nwKV4PKqQ")
-chat_ids=("5989863155" "5989863155")
+bot_tokens=("7708466900:AAEennkdhzERm2S24L7mmnYFrtojMEB-lvA" "7521443722:AAESVxPAUE9JblyJrF7ZxfXRSOm-NSPwLEo")
+chat_ids=("853645999" "5989863155")
 
 check_request_limit "$ip_address"
 
