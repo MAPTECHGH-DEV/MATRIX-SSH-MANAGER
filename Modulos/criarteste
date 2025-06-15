@@ -62,7 +62,7 @@ chmod +x /etc/VPSManager/userteste/$nome.sh
 at -f /etc/VPSManager/userteste/$nome.sh now + $u_temp min > /dev/null 2>&1
 clear
 echo -e "\033[1;35m╔════════════════════════════════════════════╗"
-echo -e "║          🚀✨ MAPTECH SSH MANAGER ✨🚀         ║"
+echo -e "║          🚀✨ MATRIX SSH MANAGER ✨🚀         ║"
 echo -e "╚════════════════════════════════════════════╝\033[0m"
 echo ""
 echo -e "\033[1;37m🔹── SSH ACCOUNT DETAILS ──🔹\033[0m"
@@ -86,7 +86,7 @@ echo ""
 echo -e "\033[1;36m📜 GET http://91.241.94.160/ HTTP/1.1[crlf]Host: zerod.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]\033[0m"
 echo ""
 echo -e "\033[1;37m══════════════════════════════════════════════════"
-echo -e "     🌍✨ MAPTECH VPS MANAGER SCRIPT ©️ 2024 ✨🌍"
+echo -e "     🌍✨ MATRIX VPS MANAGER SCRIPT ©️ 2024 ✨🌍"
 echo -e "══════════════════════════════════════════════════\033[0m"
 
     echo ""
